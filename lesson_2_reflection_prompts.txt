@@ -5,6 +5,8 @@ creates a .git subdir in the dir where gitstuff and changes are stored; thats ne
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+it contains stuff that is currently worked on (current change); once a change is implemented or a point for a commit is reached everything that was worked on can be bundeled in one logical commit and added to the repo with one commit message
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
